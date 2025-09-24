@@ -1,0 +1,1 @@
+# js-intermediario-accordeon
